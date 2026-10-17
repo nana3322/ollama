@@ -1,5 +1,5 @@
 name: latest
-
+ 
 on:
   release:
     types: [released]
